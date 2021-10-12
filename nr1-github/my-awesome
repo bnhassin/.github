@@ -1,0 +1,4 @@
+nr1 --version
+nr1 profiles:add --name account-3295317 --api-key NRAK-L40DS8DL3W4GHD46U57GZ8QKDA0 --region us
+nr1 create --type nerdpack --name my-awesome-nerdpack
+cd my-awesome-nerdpack && nr1 nerdpack:serve

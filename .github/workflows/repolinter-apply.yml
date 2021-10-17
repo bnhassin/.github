@@ -2,7 +2,7 @@ name: Apply Repolinter
 on:
   push:
     branches:
-      - main
+      - bnhassin-patch-1
   schedule:
     - cron: '24 21 * * *'
   workflow_dispatch:

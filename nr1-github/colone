@@ -1,0 +1,3 @@
+​nr1 nerdpack:clone -r https://github.com/newrelic/nr1-github.git
+​cd​ nr1-github
+npm start
